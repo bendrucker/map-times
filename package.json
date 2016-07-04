@@ -1,7 +1,7 @@
 {
   "name": "map-times",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Iterate through a count collecting results for each index",
   "license": "MIT",
   "repository": "bendrucker/map-times",
