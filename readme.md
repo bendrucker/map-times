@@ -1,4 +1,4 @@
-# map-times [![Build Status](https://travis-ci.org/bendrucker/map-times.svg?branch=master)](https://travis-ci.org/bendrucker/map-times)
+# map-times [![Build Status](https://travis-ci.org/bendrucker/map-times.svg?branch=master)](https://travis-ci.org/bendrucker/map-times) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/map-times.svg)](https://greenkeeper.io/)
 
 > Iterate through a count collecting results for each index
 
